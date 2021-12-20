@@ -29,8 +29,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 #host: 192.168.0.109
 #port: 4000
 #url: "http://www.misssnowfaerie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-url: "http://www.knitfastdiewarm.com" #GC 18/12/2021
-baseurl: "/kfdw/"
+#url: "http://www.knitfastdiewarm.com" #GC 18/12/2021
+#baseurl: "/kfdw/"
 detach: BOOL
 ###twitter_username: jekyllrb
 ###github_username:  jekyll
